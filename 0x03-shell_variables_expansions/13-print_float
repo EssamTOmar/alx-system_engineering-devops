@@ -1,2 +1,2 @@
 #!/bin/bash
-export NUM="5.2222" | printif "%.2f \n" NUM 
+export NUM="5.2222" | printf "%.2f \n" NUM 
